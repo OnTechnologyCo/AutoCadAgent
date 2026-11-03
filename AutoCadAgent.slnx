@@ -1,0 +1,4 @@
+<Solution>
+  <Folder Name="/src/"><Project Path="src/AutoCadAgent.Core/AutoCadAgent.Core.csproj" /><Project Path="src/AutoCadAgent.Cli/AutoCadAgent.Cli.csproj" /><Project Path="src/AutoCadAgent.Tui/AutoCadAgent.Tui.csproj" /><Project Path="src/AutoCadAgent.AutoCAD/AutoCadAgent.AutoCAD.csproj" /></Folder>
+  <Folder Name="/tests/"><Project Path="tests/AutoCadAgent.Checks/AutoCadAgent.Checks.csproj" /><Project Path="tests/AutoCadAgent.BridgeChecks/AutoCadAgent.BridgeChecks.csproj" /></Folder>
+</Solution>

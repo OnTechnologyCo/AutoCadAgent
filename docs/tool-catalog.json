@@ -1,0 +1,173 @@
+{
+  "count": 122,
+  "groups": {
+    "attdef": [
+      "attdef.create"
+    ],
+    "block": [
+      "block.create",
+      "block.explode",
+      "block.insert",
+      "block.list"
+    ],
+    "dimstyle": [
+      "dimstyle.create",
+      "dimstyle.list",
+      "dimstyle.set_current"
+    ],
+    "draw": [
+      "draw.arc",
+      "draw.array_polar_lines",
+      "draw.break",
+      "draw.chamfer",
+      "draw.circle",
+      "draw.clear_session",
+      "draw.commit",
+      "draw.copy",
+      "draw.dim_aligned",
+      "draw.dim_angular",
+      "draw.dim_arc_length",
+      "draw.dim_center_mark",
+      "draw.dim_diametric",
+      "draw.dim_jogged",
+      "draw.dim_linear",
+      "draw.dim_ordinate",
+      "draw.dim_radial",
+      "draw.dim_rotated",
+      "draw.donut",
+      "draw.ellipse",
+      "draw.erase",
+      "draw.explode",
+      "draw.extend",
+      "draw.face_2d",
+      "draw.fillet",
+      "draw.hatch_pattern",
+      "draw.hatch_solid",
+      "draw.helix_2d",
+      "draw.join",
+      "draw.layer_create",
+      "draw.leader",
+      "draw.line",
+      "draw.mirror",
+      "draw.mleader",
+      "draw.move",
+      "draw.mtext",
+      "draw.offset",
+      "draw.point",
+      "draw.polyline",
+      "draw.ray",
+      "draw.rectangle",
+      "draw.regular_polygon",
+      "draw.revision_cloud",
+      "draw.rotate",
+      "draw.scale",
+      "draw.session_status",
+      "draw.solid_2d",
+      "draw.spline",
+      "draw.start_session",
+      "draw.text",
+      "draw.tolerance",
+      "draw.trim",
+      "draw.wipeout",
+      "draw.xline"
+    ],
+    "drawing": [
+      "drawing.change_color",
+      "drawing.change_layer",
+      "drawing.delete_entities",
+      "drawing.entity_detail",
+      "drawing.entity_neighbors",
+      "drawing.highlight",
+      "drawing.list_blocks",
+      "drawing.list_by_color",
+      "drawing.list_by_layer",
+      "drawing.list_by_type",
+      "drawing.list_dimensions",
+      "drawing.list_in_region",
+      "drawing.list_polylines",
+      "drawing.list_selected",
+      "drawing.list_texts",
+      "drawing.move_entities",
+      "drawing.save_copy",
+      "drawing.summary_full",
+      "drawing.zoom_to"
+    ],
+    "entity": [
+      "entity.set_lineweight",
+      "entity.set_transparency"
+    ],
+    "group": [
+      "group.create",
+      "group.dissolve",
+      "group.list"
+    ],
+    "image": [
+      "image.attach"
+    ],
+    "layer": [
+      "layer.delete",
+      "layer.freeze",
+      "layer.list",
+      "layer.lock",
+      "layer.set_current"
+    ],
+    "layout": [
+      "layout.create",
+      "layout.delete",
+      "layout.list"
+    ],
+    "linetype": [
+      "linetype.create",
+      "linetype.list",
+      "linetype.load"
+    ],
+    "match": [
+      "match.props"
+    ],
+    "pline": [
+      "pline.add_vertex",
+      "pline.remove_vertex"
+    ],
+    "query": [
+      "query.area",
+      "query.distance",
+      "query.id_point",
+      "query.list"
+    ],
+    "region": [
+      "region.create"
+    ],
+    "select": [
+      "select.crossing",
+      "select.fence",
+      "select.window"
+    ],
+    "table": [
+      "table.insert"
+    ],
+    "textstyle": [
+      "textstyle.create",
+      "textstyle.list"
+    ],
+    "util": [
+      "util.purge",
+      "util.regen",
+      "util.zoom"
+    ],
+    "view": [
+      "view.restore",
+      "view.save"
+    ],
+    "viewport": [
+      "viewport.create",
+      "viewport.set_scale"
+    ],
+    "wblock": [
+      "wblock.export"
+    ],
+    "xref": [
+      "xref.attach",
+      "xref.detach"
+    ]
+  }
+}

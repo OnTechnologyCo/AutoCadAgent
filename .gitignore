@@ -1,0 +1,20 @@
+# Build and local working data
+**/bin/
+**/obj/
+artifacts/
+.sdk/
+.tools/
+workspace/
+.vs/
+.idea/
+*.user
+*.suo
+*.pdb
+*.log
+*.mcp-backup-*
+*.mcp-transfer-*
+*.tmp
+.env
+.env.*
+settings.json
+**/node_modules/
